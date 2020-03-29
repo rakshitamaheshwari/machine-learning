@@ -1,3 +1,1 @@
-x=900
-print(x)
-print()
+print(hii)
